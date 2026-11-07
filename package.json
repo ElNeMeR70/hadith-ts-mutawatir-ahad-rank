@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-mutawatir-ahad-rank",
+  "version": "1.0.0",
+  "description": "Transmission Multiplicity Classifier (Mutawatir, Mashhur, Aziz, Gharib) (مصنف الحديث إلى متواتر ومشهور وعزيز وغريب)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
